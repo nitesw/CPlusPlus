@@ -1,0 +1,5 @@
+﻿  Homework_19.cpp
+E:\ITStep_C++_Lessons\Homework_19\Homework_19\Homework_19.cpp(15): warning C4715: 'rightWay': not all control paths return a value
+E:\ITStep_C++_Lessons\Homework_19\Homework_19\Homework_19.cpp(42): warning C4715: 'reverseNum': not all control paths return a value
+E:\ITStep_C++_Lessons\Homework_19\Homework_19\Homework_19.cpp(27): warning C4715: 'backWay': not all control paths return a value
+  Homework_19.vcxproj -> E:\ITStep_C++_Lessons\Homework_19\Debug\Homework_19.exe

@@ -1,0 +1,4 @@
+﻿  Lesson_20.cpp
+E:\ITStep_C++_Lessons\Lesson_20\Lesson_20\Lesson_20.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_20\Lesson_20\Lesson_20.cpp(73): warning C4715: 'binaryFind': not all control paths return a value
+  Lesson_20.vcxproj -> E:\ITStep_C++_Lessons\Lesson_20\Debug\Lesson_20.exe

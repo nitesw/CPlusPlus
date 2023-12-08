@@ -1,0 +1,4 @@
+﻿  Lesson_43.cpp
+E:\ITStep_C++_Lessons\Lesson_43\Lesson_43\Lesson_43.cpp(147,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_43\Lesson_43\Lesson_43.cpp(166,30): warning C4018: '<': signed/unsigned mismatch
+  Lesson_43.vcxproj -> E:\ITStep_C++_Lessons\Lesson_43\Debug\Lesson_43.exe

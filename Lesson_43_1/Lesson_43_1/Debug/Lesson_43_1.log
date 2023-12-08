@@ -1,0 +1,31 @@
+﻿  Lesson_43_1.cpp
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(38,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(36): message : while compiling class template member function 'void Array<int>::Print(void) const'
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(77): message : see reference to function template instantiation 'void Array<int>::Print(void) const' being compiled
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(76): message : see reference to class template instantiation 'Array<int>' being compiled
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(19,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(15): message : while compiling class template member function 'Array<char>::Array(int)'
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(73): message : see reference to function template instantiation 'Array<char>::Array(int)' being compiled
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(97,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(95): message : while compiling class template member function 'T_arr Array<T_arr>::GetMax(void)'
+          with
+          [
+              T_arr=int
+          ]
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(81): message : see reference to function template instantiation 'T_arr Array<T_arr>::GetMax(void)' being compiled
+          with
+          [
+              T_arr=int
+          ]
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(109,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(107): message : while compiling class template member function 'T_arr Array<T_arr>::GetMin(void)'
+          with
+          [
+              T_arr=int
+          ]
+E:\ITStep_C++_Lessons\Lesson_43_1\Lesson_43_1\Lesson_43_1.cpp(82): message : see reference to function template instantiation 'T_arr Array<T_arr>::GetMin(void)' being compiled
+          with
+          [
+              T_arr=int
+          ]
+  Lesson_43_1.vcxproj -> E:\ITStep_C++_Lessons\Lesson_43_1\Debug\Lesson_43_1.exe

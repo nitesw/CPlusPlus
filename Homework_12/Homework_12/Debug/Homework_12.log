@@ -1,0 +1,4 @@
+﻿  Homework_12.cpp
+E:\ITStep_C++_Lessons\Homework_12\Homework_12\Homework_12.cpp(128,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\ITStep_C++_Lessons\Homework_12\Homework_12\Homework_12.cpp(161,24): warning C4018: '<': signed/unsigned mismatch
+  Homework_12.vcxproj -> E:\ITStep_C++_Lessons\Homework_12\Debug\Homework_12.exe

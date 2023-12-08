@@ -1,0 +1,4 @@
+﻿  Lesson_65.cpp
+E:\ITStep_C++_Lessons\Lesson_65\Lesson_65\Lesson_65.cpp(132,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\ITStep_C++_Lessons\Lesson_65\Lesson_65\Lesson_65.cpp(133,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson_65.vcxproj -> E:\ITStep_C++_Lessons\Lesson_65\Debug\Lesson_65.exe

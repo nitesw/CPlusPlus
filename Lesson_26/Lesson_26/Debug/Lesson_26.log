@@ -1,0 +1,3 @@
+﻿  Lesson_26.cpp
+E:\ITStep_C++_Lessons\Lesson_26\Lesson_26\Lesson_26.cpp(52): warning C4715: 'mystrchr': not all control paths return a value
+  Lesson_26.vcxproj -> E:\ITStep_C++_Lessons\Lesson_26\Debug\Lesson_26.exe

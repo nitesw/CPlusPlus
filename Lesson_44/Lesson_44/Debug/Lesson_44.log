@@ -1,0 +1,4 @@
+﻿  Lesson_44.cpp
+E:\ITStep_C++_Lessons\Lesson_44\Lesson_44\Lesson_44.cpp(102): warning C4715: 'Stack<int>::Pop': not all control paths return a value
+E:\ITStep_C++_Lessons\Lesson_44\Lesson_44\Lesson_44.cpp(109): warning C4715: 'Stack<int>::Peek': not all control paths return a value
+  Lesson_44.vcxproj -> E:\ITStep_C++_Lessons\Lesson_44\Debug\Lesson_44.exe

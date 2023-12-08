@@ -1,0 +1,6 @@
+﻿  Lesson_38.cpp
+E:\ITStep_C++_Lessons\Lesson_38\Lesson_38\Lesson_38.cpp(78,16): warning C4305: 'return': truncation from 'double' to 'float'
+E:\ITStep_C++_Lessons\Lesson_38\Lesson_38\Lesson_38.cpp(95,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_38\Lesson_38\Lesson_38.cpp(124,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_38\Lesson_38\Lesson_38.cpp(181,26): warning C4018: '<': signed/unsigned mismatch
+  Lesson_38.vcxproj -> E:\ITStep_C++_Lessons\Lesson_38\Debug\Lesson_38.exe

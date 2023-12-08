@@ -1,0 +1,9 @@
+﻿  Lesson_23.cpp
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(23,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(35,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(49,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(60,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(74,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(86,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_23\Lesson_23\Lesson_23.cpp(91,34): warning C4018: '<': signed/unsigned mismatch
+  Lesson_23.vcxproj -> E:\ITStep_C++_Lessons\Lesson_23\Debug\Lesson_23.exe

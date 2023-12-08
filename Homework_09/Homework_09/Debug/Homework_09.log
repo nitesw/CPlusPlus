@@ -1,0 +1,14 @@
+﻿  Homework_09.cpp
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(53,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(54,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(55,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(80,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(81,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(82,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(107,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(108,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(109,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(134,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(135,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ITStep_C++_Lessons\Homework_09\Homework_09\Homework_09.cpp(136,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Homework_09.vcxproj -> E:\ITStep_C++_Lessons\Homework_09\Debug\Homework_09.exe

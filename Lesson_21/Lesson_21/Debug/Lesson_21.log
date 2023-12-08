@@ -1,0 +1,5 @@
+﻿  Lesson_21.cpp
+E:\ITStep_C++_Lessons\Lesson_21\Lesson_21\Lesson_21.cpp(15,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_21\Lesson_21\Lesson_21.cpp(65,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_21\Lesson_21\Lesson_21.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson_21.vcxproj -> E:\ITStep_C++_Lessons\Lesson_21\Debug\Lesson_21.exe

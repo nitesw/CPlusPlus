@@ -1,0 +1,5 @@
+﻿  Homework_27.cpp
+E:\ITStep_C++_Lessons\Homework_27\Homework_27\Homework_27.cpp(6,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_27\Homework_27\Homework_27.cpp(8,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_27\Homework_27\Homework_27.cpp(97,26): warning C4018: '<': signed/unsigned mismatch
+  Homework_27.vcxproj -> E:\ITStep_C++_Lessons\Homework_27\Debug\Homework_27.exe

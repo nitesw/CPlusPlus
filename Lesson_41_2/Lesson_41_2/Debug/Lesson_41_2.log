@@ -1,0 +1,13 @@
+﻿  Lesson_41_2.cpp
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(19,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(43,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(50,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(58,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(72,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(87,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(89,34): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(106,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(130,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(144,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_41_2\Lesson_41_2\Lesson_41_2.cpp(153,30): warning C4018: '<': signed/unsigned mismatch
+  Lesson_41_2.vcxproj -> E:\ITStep_C++_Lessons\Lesson_41_2\Debug\Lesson_41_2.exe

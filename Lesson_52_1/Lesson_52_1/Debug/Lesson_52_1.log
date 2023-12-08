@@ -1,0 +1,11 @@
+﻿  Lesson_52_1.cpp
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(113,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(119,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(125,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(139,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(145,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(151,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(172,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(181,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_52_1\Lesson_52_1\Lesson_52_1.cpp(190,30): warning C4018: '<': signed/unsigned mismatch
+  Lesson_52_1.vcxproj -> E:\ITStep_C++_Lessons\Lesson_52_1\Debug\Lesson_52_1.exe

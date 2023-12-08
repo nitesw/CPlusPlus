@@ -1,0 +1,3 @@
+﻿  Lesson_48_2.cpp
+E:\ITStep_C++_Lessons\Lesson_48_2\Lesson_48_2\Lesson_48_2.cpp(137,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lesson_48_2.vcxproj -> E:\ITStep_C++_Lessons\Lesson_48_2\Debug\Lesson_48_2.exe

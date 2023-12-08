@@ -1,0 +1,3 @@
+﻿  Lesson14.cpp
+E:\ITStep_C++_Lessons\Lesson14\Lesson14\Lesson14.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson14.vcxproj -> E:\ITStep_C++_Lessons\Lesson14\Debug\Lesson14.exe

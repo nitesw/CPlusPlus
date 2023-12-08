@@ -1,0 +1,4 @@
+﻿  Lesson_64_1.cpp
+E:\ITStep_C++_Lessons\Lesson_64_1\Lesson_64_1\Lesson_64_1.cpp(53,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_64_1\Lesson_64_1\Lesson_64_1.cpp(76,30): warning C4018: '<': signed/unsigned mismatch
+  Lesson_64_1.vcxproj -> E:\ITStep_C++_Lessons\Lesson_64_1\Debug\Lesson_64_1.exe

@@ -1,0 +1,4 @@
+﻿  Lesson_67.cpp
+E:\ITStep_C++_Lessons\Lesson_67\Lesson_67\Lesson_67.cpp(9,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\ITStep_C++_Lessons\Lesson_67\Lesson_67\Lesson_67.cpp(53,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Lesson_67.vcxproj -> E:\ITStep_C++_Lessons\Lesson_67\Debug\Lesson_67.exe

@@ -1,0 +1,4 @@
+﻿  Homework_08.cpp
+E:\ITStep_C++_Lessons\Homework_08\Homework_08\Homework_08.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\ITStep_C++_Lessons\Homework_08\Homework_08\Homework_08.cpp(11,16): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Homework_08.vcxproj -> E:\ITStep_C++_Lessons\Homework_08\Debug\Homework_08.exe

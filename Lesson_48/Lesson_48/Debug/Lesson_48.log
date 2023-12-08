@@ -1,0 +1,5 @@
+﻿  Lesson_48.cpp
+E:\ITStep_C++_Lessons\Lesson_48\Lesson_48\Lesson_48.cpp(46,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_48\Lesson_48\Lesson_48.cpp(97,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_48\Lesson_48\Lesson_48.cpp(98,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lesson_48.vcxproj -> E:\ITStep_C++_Lessons\Lesson_48\Debug\Lesson_48.exe

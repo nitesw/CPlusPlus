@@ -1,0 +1,6 @@
+﻿  Lesson_60.cpp
+E:\ITStep_C++_Lessons\Lesson_60\Lesson_60\Console.h(12,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\ITStep_C++_Lessons\Lesson_60\Lesson_60\Console.h(12,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\ITStep_C++_Lessons\Lesson_60\Lesson_60\Lesson_60.cpp(17,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_60\Lesson_60\Lesson_60.cpp(20,34): warning C4018: '<': signed/unsigned mismatch
+  Lesson_60.vcxproj -> E:\ITStep_C++_Lessons\Lesson_60\Debug\Lesson_60.exe

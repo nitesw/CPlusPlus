@@ -1,0 +1,27 @@
+﻿  Lesson_18.cpp
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(70,9): warning C4101: 'arr': unreferenced local variable
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(72,10): warning C4101: 'arrC': unreferenced local variable
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(71,12): warning C4101: 'arrD': unreferenced local variable
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\functions.h(136,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(143): message : see reference to function template instantiation 'void inputArry<int[3]>(T [],int,int)' being compiled
+          with
+          [
+              T=int [3]
+          ]
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\functions.h(138,24): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\functions.h(148,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(144): message : see reference to function template instantiation 'void coutArry<int[3]>(T [],int,int)' being compiled
+          with
+          [
+              T=int [3]
+          ]
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\functions.h(150,24): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\functions.h(161,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\Lesson_18.cpp(145): message : see reference to function template instantiation 'T maxInMatrix<int,3>(T [][3],int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+E:\ITStep_C++_Lessons\Lesson_18\Lesson_18\functions.h(163,24): warning C4018: '<': signed/unsigned mismatch
+  Lesson_18.vcxproj -> E:\ITStep_C++_Lessons\Lesson_18\Debug\Lesson_18.exe

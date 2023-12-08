@@ -1,0 +1,21 @@
+﻿  Lesson_45.cpp
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(65,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(63): message : while compiling class template member function 'void Queue<std::string>::Print(void) const'
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(83): message : see reference to function template instantiation 'void Queue<std::string>::Print(void) const' being compiled
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(76): message : see reference to class template instantiation 'Queue<std::string>' being compiled
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(53,34): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(49): message : while compiling class template member function 'Queue<std::string>::Element Queue<std::string>::Dequeue(void)'
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(91): message : see reference to function template instantiation 'Queue<std::string>::Element Queue<std::string>::Dequeue(void)' being compiled
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(32,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(24): message : while compiling class template member function 'void Queue<std::string>::Enqueue(T,int)'
+          with
+          [
+              T=std::string
+          ]
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(77): message : see reference to function template instantiation 'void Queue<std::string>::Enqueue(T,int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+E:\ITStep_C++_Lessons\Lesson_45\Lesson_45\Lesson_45.cpp(37,34): warning C4018: '<': signed/unsigned mismatch
+  Lesson_45.vcxproj -> E:\ITStep_C++_Lessons\Lesson_45\Debug\Lesson_45.exe

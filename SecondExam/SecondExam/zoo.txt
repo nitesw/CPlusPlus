@@ -1,0 +1,58 @@
+Zoo in The Woods
+7
+Mammal
+Arctic Elephant
+Antarktuda
+17
+2230.3
+25
+1
+
+Fish
+Blobfish
+Ocean
+8
+9.5
+10
+0
+
+Mammal
+Brown Bear
+Forest
+4
+270.8
+56
+1
+
+Amphibian
+Caecilian
+Tropical Regions
+3
+0.01
+0.1
+0
+
+Fish
+Clownfish
+Ocean
+3
+0.04
+0.3
+1
+
+Bird
+Eagle
+Mountains
+13
+2.7
+35.8
+1
+
+Reptile
+Green Anole
+Woodland
+3
+0.01
+1.6
+1
+

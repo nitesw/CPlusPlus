@@ -1,0 +1,19 @@
+﻿  Lesson_32.cpp
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(37,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(44,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(48,29): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(80,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(100,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(104,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(114,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(129,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(144,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(158,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(160,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(173,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(175,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(188,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(190,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(207,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_32\Lesson_32\Lesson_32.cpp(372,34): warning C4018: '<': signed/unsigned mismatch
+  Lesson_32.vcxproj -> E:\ITStep_C++_Lessons\Lesson_32\Debug\Lesson_32.exe

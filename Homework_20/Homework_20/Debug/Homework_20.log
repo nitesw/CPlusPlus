@@ -1,0 +1,6 @@
+﻿  Homework_20.cpp
+E:\ITStep_C++_Lessons\Homework_20\Homework_20\Homework_20.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_20\Homework_20\Homework_20.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_20\Homework_20\Homework_20.cpp(63,24): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_20\Homework_20\Homework_20.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Homework_20.vcxproj -> E:\ITStep_C++_Lessons\Homework_20\Debug\Homework_20.exe

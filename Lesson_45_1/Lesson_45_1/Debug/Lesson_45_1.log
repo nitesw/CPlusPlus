@@ -1,0 +1,22 @@
+﻿  Lesson_45_1.cpp
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(94,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(64,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(62): message : while compiling class template member function 'void Queue<std::string>::Print(void) const'
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(119): message : see reference to function template instantiation 'void Queue<std::string>::Print(void) const' being compiled
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(90): message : see reference to class template instantiation 'Queue<std::string>' being compiled
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(52,34): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(48): message : while compiling class template member function 'Queue<std::string>::Element Queue<std::string>::Dequeue(void)'
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(124): message : see reference to function template instantiation 'Queue<std::string>::Element Queue<std::string>::Dequeue(void)' being compiled
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(31,30): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(23): message : while compiling class template member function 'void Queue<std::string>::Enqueue(T,int)'
+          with
+          [
+              T=std::string
+          ]
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(101): message : see reference to function template instantiation 'void Queue<std::string>::Enqueue(T,int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+E:\ITStep_C++_Lessons\Lesson_45_1\Lesson_45_1\Lesson_45_1.cpp(36,34): warning C4018: '<': signed/unsigned mismatch
+  Lesson_45_1.vcxproj -> E:\ITStep_C++_Lessons\Lesson_45_1\Debug\Lesson_45_1.exe

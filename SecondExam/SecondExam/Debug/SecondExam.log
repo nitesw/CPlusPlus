@@ -1,0 +1,5 @@
+﻿  Zoo.cpp
+E:\ITStep_C++_Lessons\SecondExam\SecondExam\Zoo.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\ITStep_C++_Lessons\SecondExam\SecondExam\Zoo.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\ITStep_C++_Lessons\SecondExam\SecondExam\Zoo.cpp(383,26): warning C4018: '<': signed/unsigned mismatch
+  SecondExam.vcxproj -> E:\ITStep_C++_Lessons\SecondExam\Debug\SecondExam.exe

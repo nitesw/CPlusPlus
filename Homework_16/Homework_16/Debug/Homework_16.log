@@ -1,0 +1,6 @@
+﻿  Homework_16.cpp
+E:\ITStep_C++_Lessons\Homework_16\Homework_16\Homework_16.cpp(22,27): warning C4018: '<=': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_16\Homework_16\Homework_16.cpp(28,26): warning C4018: '<=': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_16\Homework_16\Homework_16.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_16\Homework_16\Homework_16.cpp(60,7): warning C4101: 'isLucky': unreferenced local variable
+  Homework_16.vcxproj -> E:\ITStep_C++_Lessons\Homework_16\Debug\Homework_16.exe

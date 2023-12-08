@@ -1,0 +1,3 @@
+﻿  Lesson_65_2.cpp
+E:\ITStep_C++_Lessons\Lesson_65_2\Lesson_65_2\Lesson_65_2.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson_65_2.vcxproj -> E:\ITStep_C++_Lessons\Lesson_65_2\Debug\Lesson_65_2.exe

@@ -1,0 +1,31 @@
+﻿  Lesson_17.cpp
+  arrays.cpp
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(124,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(136,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(147,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(166,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(179,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(193,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(206,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(237,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(253,23): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(268,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(174): warning C4715: 'minNum': not all control paths return a value
+E:\ITStep_C++_Lessons\Lesson_17\Lesson_17\arrays.cpp(187): warning C4715: 'minNum': not all control paths return a value
+  Lesson_17.vcxproj -> E:\ITStep_C++_Lessons\Lesson_17\Debug\Lesson_17.exe

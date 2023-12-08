@@ -1,0 +1,10 @@
+﻿  Lesson_49.cpp
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(60,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(61,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(63,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(65,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(66,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(68,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(70,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\ITStep_C++_Lessons\Lesson_49\Lesson_49\Lesson_49.cpp(143,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Lesson_49.vcxproj -> E:\ITStep_C++_Lessons\Lesson_49\Debug\Lesson_49.exe

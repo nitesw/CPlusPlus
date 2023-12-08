@@ -1,0 +1,6 @@
+﻿  Homework_23.cpp
+E:\ITStep_C++_Lessons\Homework_23\Homework_23\Homework_23.cpp(29,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_23\Homework_23\Homework_23.cpp(43,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_23\Homework_23\Homework_23.cpp(48,34): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Homework_23\Homework_23\Homework_23.cpp(60,33): warning C4018: '<': signed/unsigned mismatch
+  Homework_23.vcxproj -> E:\ITStep_C++_Lessons\Homework_23\Debug\Homework_23.exe

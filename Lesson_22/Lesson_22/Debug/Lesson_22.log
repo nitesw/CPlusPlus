@@ -1,0 +1,5 @@
+﻿  Lesson_22.cpp
+E:\ITStep_C++_Lessons\Lesson_22\Lesson_22\Lesson_22.cpp(49,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_22\Lesson_22\Lesson_22.cpp(59,26): warning C4018: '<': signed/unsigned mismatch
+E:\ITStep_C++_Lessons\Lesson_22\Lesson_22\Lesson_22.cpp(70,26): warning C4018: '<': signed/unsigned mismatch
+  Lesson_22.vcxproj -> E:\ITStep_C++_Lessons\Lesson_22\Debug\Lesson_22.exe
